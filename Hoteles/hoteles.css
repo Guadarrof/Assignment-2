@@ -1,0 +1,56 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    width: 100%;
+}
+
+
+.float-right{
+    float: right;
+
+}
+
+.float-left{
+    float: left;
+
+}
+
+.footer-img{
+    width: 100%;
+    object-fit: cover;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h1, h2{
+    color: #BB5297;
+    font-weight: 100;
+    letter-spacing: 0.6em;
+}
+
+h2{
+    font-size: 20px;
+}
+
+
+
+.image-hotels{
+    height: 200px;
+    margin: 10px;
+}
+
+p{
+    line-height: 2em;
+    color: #3B63A6;
+}
+
+.logo{
+    height: 180px;
+}
